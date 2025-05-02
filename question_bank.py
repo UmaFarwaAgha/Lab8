@@ -9,7 +9,11 @@ import random
 questions = {
     "Science": [
         ("What is the chemical symbol for water?", "H2O"),
-        # Add more questions as tuples (question, answer)
+        ("What is the chemical symbol for nitrogen?", "N"),
+    ],
+    "Science": [
+        ("What is the chemical symbol for water?", "H2O"),
+        ("What is the chemical symbol for nitrogen?", "N"),
     ],
 }
 
